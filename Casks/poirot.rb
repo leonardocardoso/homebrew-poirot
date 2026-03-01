@@ -1,6 +1,6 @@
 cask "poirot" do
-  version "1.1.0"
-  sha256 "e964cf64c586cf9a36b55c0a0c9af5750b13889e342f0ea23b0109b2c0d34995"
+  version "1.1.1"
+  sha256 "e79ed712b56ab9e9841c75e261f5256a5782ed6cd912f93639c32dccf50024c7"
 
   url "https://github.com/LeonardoCardoso/poirot/releases/download/v#{version}/Poirot-v#{version}.dmg"
   name "Poirot"
